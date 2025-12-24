@@ -1,0 +1,12 @@
+{
+  "name": "streaming_platform",
+  "version": "1.0.0",
+  "description": "video streaming platform like youtube ",
+  "license": "ISC",
+  "author": "Dave",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
